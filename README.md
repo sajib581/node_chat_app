@@ -28,5 +28,8 @@ Please follow the below instructions to run this project in your machine:
    npm run prod
    ```
    Admin_email : sajibdas581@gmail.com
-   <small>Admin Password : +@sajib1A</small>
+   Admin Password : +@sajib1A
+   
+   user_email : rajib@gmail.com
+   user_Password : +@sajib1A
    
